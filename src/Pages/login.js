@@ -4,7 +4,7 @@ import bridgepic from "../assets/BridgenoteLogo.png";
 import bridgebackground from "../assets/Background.png";
 import FormControlLabel from "@mui/material/FormControlLabel";
 import Checkbox from "@mui/material/Checkbox";
-import { useNavigate, Link } from "react-router-dom";
+import { useNavigate } from "react-router-dom";
 import swal from 'sweetalert';
 
 export default function Login() {
